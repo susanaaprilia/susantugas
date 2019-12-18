@@ -1,0 +1,15 @@
+body{
+    background-image: url('buku.jpg');
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+}
+.laporan1{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    width: 90%;
+    background-color: rgba(97, 47, 47, 0.548);
+    margin: 0;
+    padding: 80px 80px;
+    color: white;
+}

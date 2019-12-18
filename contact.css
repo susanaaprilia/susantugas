@@ -1,0 +1,36 @@
+.Susan{
+    color: whitesmoke;
+    background-color: rgba(216, 116, 136, 0.808);
+    width: 80%;
+    padding: 100px 100px;
+    font-family: helvetica;
+    font-size: 10px;
+}
+body{
+    background-image: url('bb9518e01114c69fc6122fa956e42270.jpg');
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+}
+.ig{
+    background-image: url(instagram-logo.png);
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    background-size: 25px;
+    background-position: 3px;
+}
+.email{
+    background-image: url(envelope.png);
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    background-size: 25px;
+    background-position: 3px;
+}
+.whatsapp{
+    background-image: url(call-answer.png);
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    background-size: 25px;
+    background-position: 3px;
+}
